@@ -25,7 +25,7 @@ function App() {
   const [currentLocation, setCurrentLocation] = useState();
   const [search, setSearch] = useState();
   const [imperial, setImperial] = useState(false);
-  const [menu, setMenu] = useState(false)
+  const [menu, setMenu] = useState(true)
   if (!currentLocation) {
     setCurrentLocation("Asuncion");
   } else {
