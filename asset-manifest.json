@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sergioesc_weatherApp/static/css/main.2073eaaa.css",
+    "main.js": "/sergioesc_weatherApp/static/js/main.1caea3c4.js",
+    "index.html": "/sergioesc_weatherApp/index.html",
+    "main.2073eaaa.css.map": "/sergioesc_weatherApp/static/css/main.2073eaaa.css.map",
+    "main.1caea3c4.js.map": "/sergioesc_weatherApp/static/js/main.1caea3c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2073eaaa.css",
+    "static/js/main.1caea3c4.js"
+  ]
+}
